@@ -5,9 +5,18 @@
 ## 🚀 About Me
 My name is Basheer Haadi. And I'm a Fullstack Developer, Software Engineer. I love programming. And learning new technologies.
 
-## 🛠 Skills
-PHP, MySQL, TypeScript, Firebase, HTML, CSS, JavaScript, jQuery, React JS, Typescript, React Native, Next.js, Electron JS, Tailwind CSS, Sass, Bootstrap, Adobe XD, Figma, C, C++, VB.NET
+## 🛠 Frontend Stacks
+HTML, CSS, JAVASCRIPT, REACT JS, VUE JS, ANGULAR JS, BOOTSTRAP CSS, TAILWIND CSS, JQuery
 
+## 🛠 Backend Stacks
+Vanilla PHP, Laravel PHP, Node JS, Express JS, TypeScript, Ruby on Rail, Python Django, ASP.NET
+
+## 🛠 Database Skills
+SQL - MySQL, Postgres SQL, MSSQL, MS ACCESS
+MongoBD, Firebase
+
+## 🛠 Other Stacks
+Flutter, Dart Programming, React Native, Java Programming, VB.NET, C# 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://basheerhaadi.com/)
