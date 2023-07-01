@@ -13,7 +13,7 @@ Vanilla PHP, Laravel PHP, Node JS, Express JS, TypeScript, Ruby on Rail, Python 
 
 ### 🛠 Database Skills
 SQL - MySQL, Postgres SQL, MSSQL, MS ACCESS
-MongoBD, Firebase
+MongoDB, Firebase
 
 ### 🛠 Other Stacks
 Flutter, Dart Programming, React Native, Java Programming, VB.NET, C# 
