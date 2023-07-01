@@ -16,7 +16,7 @@ SQL - MySQL, Postgres SQL, MSSQL, MS ACCESS
 MongoDB, Firebase
 
 ### 🛠 Other Stacks
-Flutter, Dart Programming, React Native, Java Programming, VB.NET, C# 
+Flutter, Dart Programming, React Native, Java Programming, VB.NET
 
 
 ## Hobbies
