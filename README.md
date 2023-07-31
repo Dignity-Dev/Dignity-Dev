@@ -7,16 +7,27 @@ Highly skilled and experienced Backend Engineer with 5+ years of expertise in de
 
 ### 🛠 Tech Stacks and my best
 Programming Languages: Python, JavaScript, PHP, Ruby
+
 Web Technologies: Django, Laravel, Node.js, Rails, Typescript
+
 Frontend Technologies: HTML, CSS, JavaScript, React.js, VueX, Angular, Bootstrap CSS.
+
 Databases: MySQL, PostgreSQL, MongoDB
+
 Cloud Platforms: AWS (Amazon Web Services), Azure, Google Cloud Platform
+
 Version Control: Git, SVN
+
 DevOps: Docker, Kubernetes, Jenkins
+
 API Design and Development: RESTful APIs, GraphQL
+
 Testing and Debugging: Unit testing, Integration testing, Test-driven development (TDD)
+
 Performance Optimization: Caching, Load balancing, Database tuning
+
 Security: Authentication, Authorization, OWASP best practices
+
 Agile Methodologies: Scrum
 
 ## Hobbies
