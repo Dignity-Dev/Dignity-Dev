@@ -3,7 +3,7 @@
 # Hi, I'm Basheer Haadi!👋
 
 ## 🚀 About Me
-Highly skilled and experienced Backend Engineer with 5+ years of expertise in developing scalable and efficient backend systems. Proficient in designing and implementing complex architectures, optimizing performance, and ensuring robustness and security. Adept at collaborating with cross-functional teams and delivering innovative solutions to drive business growth. Excellent problem-solving skills and a passion for staying updated with emerging technologies and industry trends
+Highly skilled and experienced Backend Engineer with 6+ years of expertise in developing scalable and efficient backend systems. Proficient in designing and implementing complex architectures, optimizing performance, and ensuring robustness and security. Adept at collaborating with cross-functional teams and delivering innovative solutions to drive business growth. Excellent problem-solving skills and a passion for staying updated with emerging technologies and industry trends
 
 ### 🛠 Tech Stacks and my best
 ⚡️Programming Languages: Python, JavaScript, PHP, Ruby
@@ -23,8 +23,6 @@ Highly skilled and experienced Backend Engineer with 5+ years of expertise in de
 ⚡️API Design and Development: RESTful APIs, GraphQL
 
 ⚡️Testing and Debugging: Unit testing, Integration testing, Test-driven development (TDD)
-
-⚡️Performance Optimization: Caching, Load balancing, Database tuning
 
 ⚡️Security: Authentication, Authorization, OWASP best practices
 
