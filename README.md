@@ -13,10 +13,6 @@
 
 I'm a software engineer and founder with years of experience building and shipping products for startups, enterprises, and educational institutions. As Technical Strategist Lead at **Dignity Technology Ltd**, I've led end-to-end product development across web platforms, university systems, and edtech tools, from architecture to deployment.
 
-I currently build **LernCentral**, a multi-tenant CBT and learning management platform serving 9,000+ students across secondary schools and universities in Nigeria. I also developed the **University Management System** at Emmanuel Alayande University of Education, which powers student records, course registration, grading, payments, and CBT, including a payment portal that has processed **₦8B+ in transactions**.
-
-I care about building systems that scale, teams that grow, and software that actually works for real people.
-
 ---
 
 ## What I Build
@@ -25,7 +21,7 @@ I care about building systems that scale, teams that grow, and software that act
 - **Institutional Platforms**: University management systems with payments, records, and reporting
 - **Full-Stack Web Apps**: Laravel, Node.js, Django backends with React/Vue frontends
 - **Machine Learning**: Large Language Model development
-- **Tech Community**: Founder of EAUED Tech Community; organising events, mentorship, and knowledge sharing
+- **Tech Community**: Founder of Tech Community; organising events, mentorship, and knowledge sharing
 
 ---
 
